@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android-lab04</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="wyslij">Wyslij</string>
+    <string name="kolor">Kolor</string>
+    <string name="opis">Opis</string>
+    <string name="wielkosc">Wielkosc</string>
+</resources>
